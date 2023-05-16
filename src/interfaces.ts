@@ -1,0 +1,3 @@
+interface Ibase{
+    printParentClass():void
+}
