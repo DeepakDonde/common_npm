@@ -6,8 +6,8 @@
   },
   "version": "1.0.5",
   "description": "This is a sample npm package which can be used in both express and Nest JS",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/src/index.js",
+  "module": "dist/src/index.js",
   "scripts": {
     "build":"tsc",
     "test":"ts-node ./test/index_test.ts"
