@@ -14,4 +14,7 @@ export default class Alpha extends Beta {
     console.log(this.TAG);
   }
 
+  printHelloWorld() {
+    console.log("Hello World!");
+  }
 }
